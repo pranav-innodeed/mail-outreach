@@ -17,6 +17,9 @@ build/
 *.xls
 *.xlsx.inspect.ndjson
 
+# Local scratch / unrelated project folders
+work/
+
 # Local Chrome / Selenium state (contains login cookies — never commit)
 chrome_profile/
 chrome_profile*/
