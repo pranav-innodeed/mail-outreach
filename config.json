@@ -1,0 +1,10 @@
+{
+  "workbook_path": "outreach.xlsx",
+  "outlook_url": "https://outlook.office.com/mail/",
+  "from_email": "",
+  "chrome_profile_path": "chrome_profile",
+  "dry_run": true,
+  "max_emails_per_run": 1,
+  "delay_between_emails_seconds": 4,
+  "wait_timeout_seconds": 45
+}

@@ -1,0 +1,49 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Workbooks stay local (create your own from the README)
+*.xlsx
+*.xls
+*.xlsx.inspect.ndjson
+
+# Local Chrome / Selenium state (contains login cookies — never commit)
+chrome_profile/
+chrome_profile*/
+ChromeProfile/
+
+# Runtime logs and diagnostics
+outreach.log
+*.log
+outlook_failure_*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+token.json
+
+# Excel lock / temp files
+~$*.xlsx
+*.tmp
