@@ -1,10 +1,10 @@
 {
-  "workbook_path": "outreach.xlsx",
+  "workbook_path": "outreach_contacts_10000.xlsx",
   "outlook_url": "https://outlook.office.com/mail/",
-  "from_email": "",
+  "from_email": "saurabh9034176@outlook.com",
   "chrome_profile_path": "chrome_profile",
-  "dry_run": true,
-  "max_emails_per_run": 1,
-  "delay_between_emails_seconds": 4,
+  "dry_run": false,
+  "max_emails_per_run": 50,
+  "delay_between_emails_seconds": 0,
   "wait_timeout_seconds": 45
 }
